@@ -37,6 +37,7 @@ This project includes two main datasets: the Sales Data and the Customer Data. T
 ### Data Description
 
 #### Sale Data
+
 This dataset captures details about individual sales transactions. Each row represents a unique order, showing what products were sold, in what quantities, and to which customers.
 
 #### Description
@@ -56,6 +57,28 @@ Quantity: Number of units sold.
 UnitPrice: Price per unit of the product.
 
 Total Sales: Total value of the sale (calculated as Quantity x UnitPrice).  
+
+#### Customer Data
+
+ This dataset provides information about customers and their subscription status, helping us understand customer profiles, subscription types, and customer retention.
+ 
+#### Description:
+
+CustomerID: Unique identifier for each customer.
+
+CustomerName: Name of the customer.
+
+Region: The region where the customer is based (matching with the region in Sales Data).
+
+SubscriptionType: Type of subscription plan the customer is on (e.g., Basic, Premium, Standard).
+
+SubscriptionStart and SubscriptionEnd: Dates marking the start and end of the subscription period.
+
+Canceled: Indicates if the customer canceled their subscription (Yes/No).
+
+Revenue: Total revenue generated from the customer.
+
+Subscription Duration: Length of the subscription in days.
 
 ---
 ### Tool Used
