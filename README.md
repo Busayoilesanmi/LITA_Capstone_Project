@@ -81,6 +81,17 @@ Revenue: Total revenue generated from the customer.
 Subscription Duration: Length of the subscription in days.
 
 ---
+### Purpose of These Datasets
+
+The Sales Data helps us analyze sales performance across regions and products, while the Customer Data reveals customer behavior, loyalty, and subscription trends. Together, these datasets allow for a thorough analysis of customer purchasing patterns and product success, which can drive business strategies and improve customer retention.
+
+---
+### Project Objectives for the Datasets
+
+This project uses two key datasets—Sales Data and Customer Data—to explore and analyze different aspects of the business. Each dataset serves specific objectives, helping us gain insights into sales performance, customer behavior, and overall business trends.
+
+
+
 ### Tool Used
 ---
  * Microsoft Excel for analyzing data
