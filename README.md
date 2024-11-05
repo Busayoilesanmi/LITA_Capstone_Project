@@ -327,11 +327,13 @@ Power BI offers a range of powerful features that make it a top choice for data 
 
 #### Pivotal Tables:
 ![Screenshot 2024-11-05 212521](https://github.com/user-attachments/assets/9b2afc79-218a-4bc7-9cd3-cbffbf89f61a)
+
 ---
 #### 2.Region by Total Sales
 
 #### Pivotal Tables:
 ![Screenshot 2024-11-05 212340](https://github.com/user-attachments/assets/eb6d7415-17df-4563-af4e-60fb5ab9ba39)
+
 ---
 #### 3. Product by Average Sale
 
