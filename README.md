@@ -36,16 +36,25 @@ This project includes two main datasets: the Sales Data and the Customer Data. T
 ---
 ### Data Description
 
-Sale Data: This dataset captures details about individual sales transactions. Each row represents a unique order, showing what products were sold, in what quantities, and to which customers.
+#### Sale Data
+This dataset captures details about individual sales transactions. Each row represents a unique order, showing what products were sold, in what quantities, and to which customers.
 
-Description
- OrderID: Unique identifier for each order.
+#### Description
+
+OrderID: Unique identifier for each order.
+
 Customer Id: ID linking each sale to a specific customer.
+
 Product: The type of product sold, such as “Shirt” or “Shoes.”
+
 Region: Geographical area where the sale took place (e.g., North, South).
+
 OrderDate: Date the order was placed.
+
 Quantity: Number of units sold.
+
 UnitPrice: Price per unit of the product.
+
 Total Sales: Total value of the sale (calculated as Quantity x UnitPrice).  
 
 ---
