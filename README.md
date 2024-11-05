@@ -147,7 +147,21 @@ The Sales Data dataset provides transaction-level details, allowing us to track 
   
  - Sales Over Time: Monthly or quarterly sales trends. Tracking sales over time reveals seasonal patterns or growth trends that can inform marketing and inventory decisions.
 
+---
+### How to Use the Data
 
+#### Sales Data Analysis
+
+1. Product by Total Sales: Group the data by Product and sum the Total sales column. To identify top-selling products based on total Sales.
+
+2. Region by Total Sales: Group the data by Region and sum the Total sales column. To determine which regions contribute most to total sales.
+
+3. Product by Average Sale: Group the data by Product and sum the Average sales column. To Assess the average sale value per product to understand product pricing and customer spending 
+   behavior.
+   
+4. Months by Total Sales: Group the data by Months and sum the Total sales column. To Analyze monthly trends to identify seasonality or sales peaks.
+
+5. Years by Total Sales:  Group the data by Years and sum the Total sales column.To track annual growth and compare year-over-year performance.
 
 
 ### Tool Used
