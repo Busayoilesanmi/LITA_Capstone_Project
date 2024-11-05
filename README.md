@@ -30,6 +30,9 @@ Data analysis is used across various fields, from business and healthcare to mar
 
 ---
 ### Tool Used
+ * Microsoft Excel for analyzing data
+ * SQL (Structured Query Language) for query,retrieve, insert, update, and delete data stored in database tables
+ * PowerBI for Visaualising data
 ---
 #### Microsoft Excel
 ---
