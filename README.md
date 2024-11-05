@@ -5,7 +5,7 @@
 Data analysis is the process of collecting, organizing, transforming, and interpreting data to discover useful information, draw conclusions, and support decision-making. At its core, data analysis is about making sense of raw data to uncover patterns, trends, relationships, or insights that can inform strategies, solve problems, or answer specific questions.
 
 ### Steps Invoved in Data Analysis
-_ _ _
+
 1. Data Collection: Gathering data from various sources, which might include surveys, databases, logs, or external sources like public datasets or APIs. The quality and relevance of data 
    collected here play a major role in the effectiveness of the analysis.
 
@@ -23,13 +23,14 @@ _ _ _
 
 Data analysis is used across various fields, from business and healthcare to marketing and social sciences, to drive informed decisions, improve operations, understand customer behaviors, or forecast future outcomes.
 
----
+
 ### Project Overview
 ---
 In this project, our goal is to dive into a dataset and discover the story it tells. Whether we’re looking at customer behavior, sales trends, or operational data, the aim is to turn raw numbers into meaningful insights. By analyzing this data, we’re not only answering specific questions but also revealing patterns and trends that may inform future decisions.
 
 ---
 ### Tool Used
+---
  * Microsoft Excel for analyzing data
  * SQL (Structured Query Language) for query,retrieve, insert, update, and delete data stored in database tables
  * PowerBI for Visaualising data
