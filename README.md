@@ -125,8 +125,8 @@ The Customer Data dataset provides details on customer profiles and subscription
  * Understand Regional Customer Demographics: Examine where customers are located to better understand market penetration in different regions, which may inform future expansion or 
    localized marketing efforts.
 
-   ---
-   ### Key Metrics
+ ---
+### Key Metrics
    
 By tracking these metrics, this analysis aims to provide a well-rounded view of both sales and customer engagement. The Sales Data metrics help identify top products, revenue patterns, and regional differences, while the Customer Data metrics provide insights into loyalty and revenue contributions by customer segments. Together, these metrics will guide data-driven strategies to enhance sales, improve customer retention, and optimize business growth.
 
@@ -137,13 +137,15 @@ The Sales Data dataset provides transaction-level details, allowing us to track 
 
  - Total Revenue: Sum of all sales across all orders. This metric helps gauge overall business income and track revenue growth over time.
 
-Average Order Value (AOV): Total revenue divided by the number of orders. AOV helps assess the average amount customers spend per transaction, which is useful for measuring customer purchasing power.
+ - Average Order Value (AOV): Total revenue divided by the number of orders. AOV helps assess the average amount customers spend per transaction, which is useful for measuring customer 
+    purchasing power.
+   
+ - Product Sales Volume: The total number of units sold for each product. This metric shows which products are most popular and which may need more promotion.
 
-Product Sales Volume: The total number of units sold for each product. This metric shows which products are most popular and which may need more promotion.
-
-Sales by Region: Total sales and units sold per region. Analyzing sales by region helps us understand geographic trends and allows for region-specific marketing or inventory adjustments.
-
-Sales Over Time: Monthly or quarterly sales trends. Tracking sales over time reveals seasonal patterns or growth trends that can inform marketing and inventory decisions.
+ - Sales by Region: Total sales and units sold per region. Analyzing sales by region helps us understand geographic trends and allows for region-specific marketing or inventory 
+   adjustments.
+  
+ - Sales Over Time: Monthly or quarterly sales trends. Tracking sales over time reveals seasonal patterns or growth trends that can inform marketing and inventory decisions.
 
 
 
