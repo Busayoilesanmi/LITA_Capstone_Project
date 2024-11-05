@@ -44,19 +44,19 @@ This dataset captures details about individual sales transactions. Each row repr
 
 #### Description
 
-OrderID: Unique identifier for each order.
+ * OrderID: Unique identifier for each order.
 
-Customer Id: ID linking each sale to a specific customer.
+ * Customer Id: ID linking each sale to a specific customer.
 
-Product: The type of product sold, such as “Shirt” or “Shoes.”
+ * Product: The type of product sold, such as “Shirt” or “Shoes.”
 
-Region: Geographical area where the sale took place (e.g., North, South).
+ * Region: Geographical area where the sale took place (e.g., North, South).
 
-OrderDate: Date the order was placed.
+ * OrderDate: Date the order was placed.
 
-Quantity: Number of units sold.
+ * Quantity: Number of units sold.
 
-UnitPrice: Price per unit of the product.
+ * UnitPrice: Price per unit of the product.
 
 Total Sales: Total value of the sale (calculated as Quantity x UnitPrice).  
 
@@ -67,21 +67,21 @@ Total Sales: Total value of the sale (calculated as Quantity x UnitPrice).
  
 #### Description:
 
-CustomerID: Unique identifier for each customer.
+ * CustomerID: Unique identifier for each customer.
 
-CustomerName: Name of the customer.
+ * CustomerName: Name of the customer.
 
-Region: The region where the customer is based (matching with the region in Sales Data).
+ * Region: The region where the customer is based (matching with the region in Sales Data).
 
-SubscriptionType: Type of subscription plan the customer is on (e.g., Basic, Premium, Standard).
+ * SubscriptionType: Type of subscription plan the customer is on (e.g., Basic, Premium, Standard).
 
-SubscriptionStart and SubscriptionEnd: Dates marking the start and end of the subscription period.
+ * SubscriptionStart and SubscriptionEnd: Dates marking the start and end of the subscription period.
 
-Canceled: Indicates if the customer canceled their subscription (Yes/No).
+ * Canceled: Indicates if the customer canceled their subscription (Yes/No).
 
-Revenue: Total revenue generated from the customer.
+ * Revenue: Total revenue generated from the customer.
 
-Subscription Duration: Length of the subscription in days.
+ * Subscription Duration: Length of the subscription in days.
 
 ---
 ### Purpose of These Datasets
