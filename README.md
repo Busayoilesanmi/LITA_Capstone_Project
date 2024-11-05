@@ -25,8 +25,9 @@ Data analysis is used across various fields, from business and healthcare to mar
 ---
 Microsoft Excel is a popular spreadsheet software that helps individuals and organizations organize, analyze, and visualize data. It’s part of Microsoft’s Office Suite and is widely used for everything from simple data storage to complex data analysis and automation.
 
-Key Features of Microsoft Excel:
-Spreadsheets and Tables: Excel organizes data in a grid of rows and columns, where each cell can hold text, numbers, or formulas. You can create tables, sort and filter data, and apply different formats.
+### Key Features of Microsoft Excel:
+---
+* Spreadsheets and Tables: Excel organizes data in a grid of rows and columns, where each cell can hold text, numbers, or formulas. You can create tables, sort and filter data, and apply different formats.
 
 Formulas and Functions: Excel comes with powerful built-in functions for basic and advanced calculations, such as summing values, finding averages, or performing complex statistical and financial operations. Users can also create their own formulas.
 
