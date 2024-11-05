@@ -225,7 +225,8 @@ Microsoft Excel is a popular spreadsheet software that helps individuals and org
 
 #### Key Features of Microsoft Excel:
 ---
-* Spreadsheets and Tables: Excel organizes data in a grid of rows and columns, where each cell can hold text, numbers, or formulas. You can create tables, sort and filter data, and apply different formats.
+* Spreadsheets and Tables: Excel organizes data in a grid of rows and columns, where each cell can hold text, numbers, or formulas. You can create tables, sort and filter data, and 
+  apply different formats.
 
 * Data Visualization: Excel offers charts, graphs, and conditional formatting to help users visualize data trends and patterns. From bar charts to scatter plots, Excel provides manyways 
   to represent data visually.
@@ -320,11 +321,29 @@ Power BI offers a range of powerful features that make it a top choice for data 
 
 ### Visual Analysis and Inference 
 ---
+### Sale Data Analysis
+
 #### 1. Product by Total Sales
 ---
-### Pivotal Tables:
+#### Pivotal Tables:
+![Screenshot 2024-11-05 212521](https://github.com/user-attachments/assets/9b2afc79-218a-4bc7-9cd3-cbffbf89f61a)
 
-![Screenshot 2024-11-05 212340](https://github.com/user-attachments/assets/c3512c93-8bca-4690-8fa1-9b940961136c)
+
+#### 2.Region by Total Sales
+---
+#### Pivotal Tables:
+![Screenshot 2024-11-05 212340](https://github.com/user-attachments/assets/eb6d7415-17df-4563-af4e-60fb5ab9ba39)
+
+#### 3. Product by Average Sale
+---
+#### Pivotal Tables:
+![Screenshot 2024-11-05 212444](https://github.com/user-attachments/assets/664a5a69-e9f5-4908-8664-6e396249d198)
+
+#### 4. Months by Total Sales
+![Screenshot 2024-11-05 212412](https://github.com/user-attachments/assets/61c22642-d629-471c-9981-8822e9303cbd)
+
+#### 5. Years by Total Sales:
+![Screenshot 2024-11-05 212550](https://github.com/user-attachments/assets/adda3d03-16e3-4316-acee-3bd7fd44fc45)
 
 
 
