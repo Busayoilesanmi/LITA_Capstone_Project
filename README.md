@@ -7,7 +7,8 @@ Data analysis is the process of collecting, organizing, transforming, and interp
 - - -
 ### Steps Invoved in Data Analysis
 
-1. Data Collection: Gathering data from various sources, which might include surveys, databases, logs, or external sources like public datasets or APIs. The quality and relevance of data 
+1. Data Collection: Gathering data from various sources, which might include surveys, databases, logs, or external sources like public datasets or APIs. The quality and relevance of 
+   data 
    collected here play a major role in the effectiveness of the analysis.
 
 2. Data Cleaning: This is often the most time-consuming step. Cleaning involves removing or correcting errors, handling missing or inconsistent data, and transforming data into a format 
@@ -93,7 +94,7 @@ The Sales Data helps us analyze sales performance across regions and products, w
 This project uses two key datasets—Sales Data and Customer Data—to explore and analyze different aspects of the business. Each dataset serves specific objectives, helping us gain insights into sales performance, customer behavior, and overall business trends.
 
 ---
-### Objectives of the Sales Data
+#### Objectives of the Sales Data
 
 The Sales Data dataset captures transaction-level details for each order. Our objectives with this dataset include:
 
@@ -109,17 +110,41 @@ The Sales Data dataset captures transaction-level details for each order. Our ob
  * Calculate Revenue Metrics: Assess overall sales volume, average order value, and total revenue generated. These metrics help gauge business health and identify revenue drivers.
 
 ---
-### Objectives of the Customer Data
+#### Objectives of the Customer Data
 
 The Customer Data dataset provides details on customer profiles and subscription statuses. Our objectives with this dataset include:
 
-Analyze Customer Loyalty and Retention: Investigate subscription durations and cancellation rates to understand customer loyalty. This insight helps in developing strategies to improve retention rates, particularly among customers at higher risk of canceling.
+ * Analyze Customer Loyalty and Retention: Investigate subscription durations and cancellation rates to understand customer loyalty. This insight helps in developing strategies to 
+   improve retention rates, particularly among customers at higher risk of canceling.
 
-Segment Customers by Subscription Type: Compare behaviors and revenue generation across different subscription types (e.g., Basic, Premium). Understanding these differences allows for tailored marketing and upselling strategies.
+ * Segment Customers by Subscription Type: Compare behaviors and revenue generation across different subscription types (e.g., Basic, Premium). Understanding these differences allows 
+   for tailored marketing and upselling strategies.
 
-Measure Revenue Per Customer: Assess individual customer contributions to total revenue, identifying high-value customers and potential areas for growth among lower-value customers.
+ * Measure Revenue Per Customer: Assess individual customer contributions to total revenue, identifying high-value customers and potential areas for growth among lower-value customers.
 
-Understand Regional Customer Demographics: Examine where customers are located to better understand market penetration in different regions, which may inform future expansion or localized marketing efforts.
+ * Understand Regional Customer Demographics: Examine where customers are located to better understand market penetration in different regions, which may inform future expansion or 
+   localized marketing efforts.
+
+   ---
+   ### Key Metrics
+   
+By tracking these metrics, this analysis aims to provide a well-rounded view of both sales and customer engagement. The Sales Data metrics help identify top products, revenue patterns, and regional differences, while the Customer Data metrics provide insights into loyalty and revenue contributions by customer segments. Together, these metrics will guide data-driven strategies to enhance sales, improve customer retention, and optimize business growth.
+
+---
+#### Key Metrics for the Sales Data
+
+The Sales Data dataset provides transaction-level details, allowing us to track important sales and revenue metrics. 
+
+ - Total Revenue: Sum of all sales across all orders. This metric helps gauge overall business income and track revenue growth over time.
+
+Average Order Value (AOV): Total revenue divided by the number of orders. AOV helps assess the average amount customers spend per transaction, which is useful for measuring customer purchasing power.
+
+Product Sales Volume: The total number of units sold for each product. This metric shows which products are most popular and which may need more promotion.
+
+Sales by Region: Total sales and units sold per region. Analyzing sales by region helps us understand geographic trends and allows for region-specific marketing or inventory adjustments.
+
+Sales Over Time: Monthly or quarterly sales trends. Tracking sales over time reveals seasonal patterns or growth trends that can inform marketing and inventory decisions.
+
 
 
 
