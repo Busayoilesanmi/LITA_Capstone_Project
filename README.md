@@ -323,7 +323,9 @@ Power BI offers a range of powerful features that make it a top choice for data 
 #### 1. Product by Total Sales
 ---
 ### Pivotal Tables:
-![Screenshot 2024-11-05 212340](https://github.com/user-attachments/assets/e7a59b3d-8f04-4fe7-87fc-0bb73eb93999)
+
+![Screenshot 2024-11-05 212340](https://github.com/user-attachments/assets/1281ee9b-44e4-4f96-b8bb-4be8e60dbb3f)
+
 
 
 
