@@ -324,7 +324,7 @@ Power BI offers a range of powerful features that make it a top choice for data 
 ---
 ### Pivotal Tables:
 
-![Screenshot 2024-11-05 212340](https://github.com/user-attachments/assets/1281ee9b-44e4-4f96-b8bb-4be8e60dbb3f)
+![Screenshot 2024-11-05 212340](https://github.com/user-attachments/assets/c3512c93-8bca-4690-8fa1-9b940961136c)
 
 
 
