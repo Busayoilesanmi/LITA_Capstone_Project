@@ -28,11 +28,24 @@ Data analysis is used across various fields, from business and healthcare to mar
 ### Project Overview
 ---
 In this project, our goal is to dive into a dataset and discover the story it tells. Whether we’re looking at customer behavior, sales trends, or operational data, the aim is to turn raw numbers into meaningful insights. By analyzing this data, we’re not only answering specific questions but also revealing patterns and trends that may inform future decisions.
-
+---
+###Project Datasets
+---
+This project includes two main datasets: the Sales Data and the Customer Data. Together, they provide a comprehensive view of the sales activity and customer engagement, allowing for an in-depth analysis of purchasing behaviors, product performance, and customer loyalty.
 ---
 ### Data Description
 ---
-This project includes two main datasets: the Sales Data and the Customer Data. Together, they provide a comprehensive view of the sales activity and customer engagement, allowing for an in-depth analysis of purchasing behaviors, product performance, and customer loyalty.
+ * Sale Data: This dataset captures details about individual sales transactions. Each row represents a unique order, showing what products were sold, in what quantities, and to which 
+   customers.
+ OrderID: Unique identifier for each order.
+Customer Id: ID linking each sale to a specific customer.
+Product: The type of product sold, such as “Shirt” or “Shoes.”
+Region: Geographical area where the sale took place (e.g., North, South).
+OrderDate: Date the order was placed.
+Quantity: Number of units sold.
+UnitPrice: Price per unit of the product.
+Total Sales: Total value of the sale (calculated as Quantity x UnitPrice).  
+
 ---
 ### Tool Used
 ---
