@@ -198,8 +198,22 @@ The Customer Data dataset offers information on customer profiles and subscripti
     subscription type. This highlights revenue lost by cancellations per subscription type, informing retention strategies.
 
 5. Region by Subscription Duration by Revenue: Group by Region, then by Subscription Duration, and sum Revenue. To analyze subscription duration and revenue by region.
+
+### Formula Used
+
+Total Sales = Quantity x UnitPrice).  
+
+Average Sales per Product = AVERAGEIF(C:C,"Socks",H:H)
+
+Total Revenue by Region = SUMIF(D:D,"East",H:H)
+
+Average subscription = AVERAGE(I:I)
+
+Most Popular Subscription Type = =SUMIF(D:D,"Basic",H:H)
+
+Average Revenue = Total revenue/units sold. 
    
-### Tool Used
+### Tools Used
 ---
  * Microsoft Excel for analyzing data
  * SQL (Structured Query Language) for query,retrieve, insert, update, and delete data stored in database tables
@@ -211,10 +225,9 @@ Microsoft Excel is a popular spreadsheet software that helps individuals and org
 
 #### Key Features of Microsoft Excel:
 ---
-* Spreadsheets and Tables: Excel organizes data in a grid of rows and columns, where each cell can hold text, numbers, or formulas. You can create tables, sort and filter data, and apply 
-  different formats.
+* Spreadsheets and Tables: Excel organizes data in a grid of rows and columns, where each cell can hold text, numbers, or formulas. You can create tables, sort and filter data, and apply different formats.
 
-* Data Visualization: Excel offers charts, graphs, and conditional formatting to help users visualize data trends and patterns. From bar charts to scatter plots, Excel provides many ways 
+* Data Visualization: Excel offers charts, graphs, and conditional formatting to help users visualize data trends and patterns. From bar charts to scatter plots, Excel provides manyways 
   to represent data visually.
 
 * PivotTables and PivotCharts: These tools allow you to summarize large datasets by aggregating, filtering, and organizing data into meaningful reports.
@@ -223,7 +236,27 @@ Microsoft Excel is a popular spreadsheet software that helps individuals and org
 
 * Automation with Macros and VBA: Users can automate repetitive tasks with macros or create more advanced automation using Visual Basic for Applications (VBA).
 
-* Integration with Other Tools: Excel can connect with databases, cloud services, and other Microsoft Office tools like Word and PowerPoint. It also integrates with Power BI for enhanced data analytics and visualization.
+* Integration with Other Tools: Excel can connect with databases, cloud services, and other Microsoft Office tools like Word and PowerPoint. It also integrates with Power BI for 
+  enhanced data analytics and visualization.
+
+### SQL (Structured Query Language)
+---
+SQL (Structured Query Language) is a standardized programming language used to manage and manipulate relational databases. It allows users to create, read, update, and delete data in a database, commonly referred to as CRUD operations. SQL is essential for data analysts, database administrators, and developers, as it provides a straightforward way to retrieve specific data from large datasets and perform complex queries efficiently.
+
+#### Key Features of SQL:
+---
+ * Data Retrieval: SQL allows for precise data querying using commands like SELECT, WHERE, JOIN, and GROUP BY.
+   
+ * Data Manipulation: Commands like INSERT, UPDATE, and DELETE let users manage database entries.
+   
+ * Data Definition: With commands like CREATE TABLE and ALTER TABLE, SQL enables schema design and database structure definition.
+   
+ * Data Control: Commands like GRANT and REVOKE help manage database permissions and security.
+   
+ * Relational Data Handling: SQL supports joining tables, making it possible to retrieve and analyze data across multiple tables.
+   
+ * Aggregate Functions: Functions like SUM, AVG, COUNT, MIN, and MAX allow users to perform calculations on data sets.
+
 
 
 
