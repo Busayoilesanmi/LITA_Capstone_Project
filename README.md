@@ -318,7 +318,12 @@ Power BI offers a range of powerful features that make it a top choice for data 
      
    * Data Encryption and Compliance: Power BI complies with numerous data protection regulations and provides encryption, ensuring that sensitive data remains secure.
 
-
+### Visual Analysis and Inference 
+---
+#### 1. Product by Total Sales
+---
+### Pivotal Tables:
+![Screenshot 2024-11-05 212340](https://github.com/user-attachments/assets/e7a59b3d-8f04-4fe7-87fc-0bb73eb93999)
 
 
 
