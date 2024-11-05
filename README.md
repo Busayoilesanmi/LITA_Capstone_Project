@@ -2,11 +2,6 @@
 
 ## Project Title: Data Analysis
 
-### Project Overview
-
----
-In this project, our goal is to dive into a dataset and discover the story it tells. Whether we’re looking at customer behavior, sales trends, or operational data, the aim is to turn raw numbers into meaningful insights. By analyzing this data, we’re not only answering specific questions but also revealing patterns and trends that may inform future decisions.
-_ _ _
 Data analysis is the process of collecting, organizing, transforming, and interpreting data to discover useful information, draw conclusions, and support decision-making. At its core, data analysis is about making sense of raw data to uncover patterns, trends, relationships, or insights that can inform strategies, solve problems, or answer specific questions.
 
 ### Steps Invoved in Data Analysis
@@ -27,6 +22,11 @@ _ _ _
   into actionable insights for decision-makers or stakeholders.
 
 Data analysis is used across various fields, from business and healthcare to marketing and social sciences, to drive informed decisions, improve operations, understand customer behaviors, or forecast future outcomes.
+
+---
+### Project Overview
+---
+In this project, our goal is to dive into a dataset and discover the story it tells. Whether we’re looking at customer behavior, sales trends, or operational data, the aim is to turn raw numbers into meaningful insights. By analyzing this data, we’re not only answering specific questions but also revealing patterns and trends that may inform future decisions.
 
 ---
 ### Tool Used
