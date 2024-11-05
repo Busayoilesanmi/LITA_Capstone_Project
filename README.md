@@ -30,7 +30,7 @@ In this project, our goal is to dive into a dataset and discover the story it te
 
 ---
 ### Tool Used
----
+
  * Microsoft Excel for analyzing data
  * SQL (Structured Query Language) for query,retrieve, insert, update, and delete data stored in database tables
  * PowerBI for Visaualising data
