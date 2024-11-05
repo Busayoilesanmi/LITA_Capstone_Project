@@ -30,6 +30,10 @@ Data analysis is used across various fields, from business and healthcare to mar
 In this project, our goal is to dive into a dataset and discover the story it tells. Whether we’re looking at customer behavior, sales trends, or operational data, the aim is to turn raw numbers into meaningful insights. By analyzing this data, we’re not only answering specific questions but also revealing patterns and trends that may inform future decisions.
 
 ---
+### Data Description
+---
+This project includes two main datasets: the Sales Data and the Customer Data. Together, they provide a comprehensive view of the sales activity and customer engagement, allowing for an in-depth analysis of purchasing behaviors, product performance, and customer loyalty.
+---
 ### Tool Used
 ---
  * Microsoft Excel for analyzing data
