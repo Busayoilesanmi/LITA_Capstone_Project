@@ -187,9 +187,18 @@ The Customer Data dataset offers information on customer profiles and subscripti
 #### Customer Data Analysis
 
 1. Subscription Type by Subscription Duration: Group the data by Subscription Type and sum the Subscription Duration column. To evaluate how long customers stay subscribed based on 
-   subscription type
+   subscription type. This insight helps understand loyalty differences across subscription tiers.
 
-2. 
+2.  Region by Subscription Type by Revenue: Group the data by Region,then Subscription Type and sum the Subscription Duration column. To evaluate how long customers stay subscribed 
+    based on subscription type.
+
+3.  Customer ID by Revenue: Group the data by CustomerID and sum the Revenue. To identify high-value customers and their revenue contributions.
+
+4.  Subscription Type by Canceled by Revenue: Group the data by subscription Type,then Canceled and sum the Revenue column.To examine revenue impact from cancellations by 
+    subscription type. This highlights revenue lost by cancellations per subscription type, informing retention strategies.
+
+5. Region by Subscription Duration by Revenue: Group by Region, then by Subscription Duration, and sum Revenue. To analyze subscription duration and revenue by region.
+   
 ### Tool Used
 ---
  * Microsoft Excel for analyzing data
