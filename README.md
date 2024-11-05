@@ -23,7 +23,6 @@ Data analysis is the process of collecting, organizing, transforming, and interp
   into actionable insights for decision-makers or stakeholders.
 
 Data analysis is used across various fields, from business and healthcare to marketing and social sciences, to drive informed decisions, improve operations, understand customer behaviors, or forecast future outcomes.
-
 - - -
 ### Project Overview
 ---
@@ -32,6 +31,8 @@ In this project, our goal is to dive into a dataset and discover the story it te
 ###Project Datasets
 ---
 This project includes two main datasets: the Sales Data and the Customer Data. Together, they provide a comprehensive view of the sales activity and customer engagement, allowing for an in-depth analysis of purchasing behaviors, product performance, and customer loyalty.
+
+
 ---
 ### Data Description
 ---
