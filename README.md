@@ -35,6 +35,7 @@ This project includes two main datasets: the Sales Data and the Customer Data. T
 
 ---
 ### Data Description
+---
 
 #### Sale Data
 
@@ -58,6 +59,7 @@ UnitPrice: Price per unit of the product.
 
 Total Sales: Total value of the sale (calculated as Quantity x UnitPrice).  
 
+----
 #### Customer Data
 
  This dataset provides information about customers and their subscription status, helping us understand customer profiles, subscription types, and customer retention.
@@ -89,6 +91,35 @@ The Sales Data helps us analyze sales performance across regions and products, w
 ### Project Objectives for the Datasets
 
 This project uses two key datasets—Sales Data and Customer Data—to explore and analyze different aspects of the business. Each dataset serves specific objectives, helping us gain insights into sales performance, customer behavior, and overall business trends.
+
+---
+### Objectives of the Sales Data
+
+The Sales Data dataset captures transaction-level details for each order. Our objectives with this dataset include:
+
+ * Analyze Product Performance: Identify top-selling products and those with low sales across different regions. This helps us understand which products are driving revenue and which 
+   may need promotion or discontinuation.
+
+ * Explore Regional Sales Trends: Examine how sales vary by region to help guide targeted marketing efforts and product distribution strategies. Understanding regional preferences can 
+   help tailor offerings to meet customer demand.
+
+ * Track Seasonal or Time-Based Trends: Identify any spikes or dips in sales during specific times of the year. Seasonal trends provide insights into optimal times for promotions or 
+   inventory adjustments.
+
+ * Calculate Revenue Metrics: Assess overall sales volume, average order value, and total revenue generated. These metrics help gauge business health and identify revenue drivers.
+
+---
+### Objectives of the Customer Data
+
+The Customer Data dataset provides details on customer profiles and subscription statuses. Our objectives with this dataset include:
+
+Analyze Customer Loyalty and Retention: Investigate subscription durations and cancellation rates to understand customer loyalty. This insight helps in developing strategies to improve retention rates, particularly among customers at higher risk of canceling.
+
+Segment Customers by Subscription Type: Compare behaviors and revenue generation across different subscription types (e.g., Basic, Premium). Understanding these differences allows for tailored marketing and upselling strategies.
+
+Measure Revenue Per Customer: Assess individual customer contributions to total revenue, identifying high-value customers and potential areas for growth among lower-value customers.
+
+Understand Regional Customer Demographics: Examine where customers are located to better understand market penetration in different regions, which may inform future expansion or localized marketing efforts.
 
 
 
