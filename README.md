@@ -182,7 +182,14 @@ The Customer Data dataset offers information on customer profiles and subscripti
 
 5. Years by Total Sales:  Group the data by Years and sum the Total sales column.To track annual growth and compare year-over-year performance.
 
+---
 
+#### Customer Data Analysis
+
+1. Subscription Type by Subscription Duration: Group the data by Subscription Type and sum the Subscription Duration column. To evaluate how long customers stay subscribed based on 
+   subscription type
+
+2. 
 ### Tool Used
 ---
  * Microsoft Excel for analyzing data
