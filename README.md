@@ -384,6 +384,7 @@ Power BI offers a range of powerful features that make it a top choice for data 
 #### Pivotal Tables
 ![Screenshot 2024-11-05 212744](https://github.com/user-attachments/assets/f8b2304f-94bb-4d7d-8513-0591d1fce154)
 
+---
 ### SQL(Structured Query Language)
 
 ##### Sale Data Analysis
@@ -393,6 +394,22 @@ Power BI offers a range of powerful features that make it a top choice for data 
 
 ![sql for customer data 2](https://github.com/user-attachments/assets/42a3f0a0-12b2-4119-8421-80811188f2d7)
 
+---
+##### Customer Data Analysis
+      SQL Query
+
+![sql for customer data1](https://github.com/user-attachments/assets/124d691c-f028-49e6-8266-8be8a4ff4cdd)
+
+![sql for customer data2](https://github.com/user-attachments/assets/89fe547d-6494-44a4-b926-1967984926fb)
+
+---
+### Visualisation(PowerBI)
+
+##### Sale Data Analysis
+![Sale Analysis](https://github.com/user-attachments/assets/c31984f9-78dc-47fe-88bd-827354c378c3)
+
+#### Customer Data Analysis
+![Screenshot 2024-11-05 141232](https://github.com/user-attachments/assets/312f1fcb-3171-4fe4-8a3d-4b1dbcecd45f)
 
 
 
