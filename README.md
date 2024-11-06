@@ -1,5 +1,10 @@
 # LITA_Capstone_Project
 
+[Project Title: Data Analysis](Project Title: Data Analysis)
+[Steps Invoved in Data Analysis]
+
+
+
 ## Project Title: Data Analysis
 
 Data analysis is the process of collecting, organizing, transforming, and interpreting data to discover useful information, draw conclusions, and support decision-making. At its core, data analysis is about making sense of raw data to uncover patterns, trends, relationships, or insights that can inform strategies, solve problems, or answer specific questions.
