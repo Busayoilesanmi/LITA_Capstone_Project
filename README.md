@@ -355,7 +355,7 @@ Power BI offers a range of powerful features that make it a top choice for data 
 
 ### Customer Data Analysis
 ---
-####1. Subscription Type by Subscription Duration:
+#### 1. Subscription Type by Subscription Duration:
 
 #### Pivotal Tables
 ![Screenshot 2024-11-05 212622](https://github.com/user-attachments/assets/82ad36e8-fd87-4033-a2ed-5c1610743caf)
@@ -384,6 +384,13 @@ Power BI offers a range of powerful features that make it a top choice for data 
 #### Pivotal Tables
 ![Screenshot 2024-11-05 212744](https://github.com/user-attachments/assets/f8b2304f-94bb-4d7d-8513-0591d1fce154)
 
+### SQL(Structured Query Language)
+
+##### Sale Data Analysis
+      SQL Query
+![sql for customer data 2](https://github.com/user-attachments/assets/42a3f0a0-12b2-4119-8421-80811188f2d7)
+
+![sql for Sale data1](https://github.com/user-attachments/assets/b2e63757-23d6-4b54-a5fd-eaa838e0c58c)
 
 
 
