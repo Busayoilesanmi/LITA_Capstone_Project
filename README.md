@@ -126,7 +126,7 @@ The Customer Data dataset provides details on customer profiles and subscription
  ---
 ### Key Metrics
    
-By tracking these metrics, this analysis aims to provide a well-rounded view of both sales and customer engagement. The Sales Data metrics help identify top products, revenue patterns, and regional differences, while the Customer Data metrics provide insights into loyalty,cancellation rate and revenue contributions by customer segments. Together, these metrics will guide data-driven strategies to enhance sales, improve customer retention, and optimize business growth.
+By tracking these metrics, this analysis aims to provide a well-rounded view of both sales and customer engagement. The Sales Data metrics help identify top products, revenue patterns, and regional differences, while the Customer Data metrics provide insights into loyalty,cancellation rate and revenue contributions by customer segments. Together, these metrics will guide data-driven decision to enhance sales, improve customer retention, and optimize business growth.
 
 ---
 #### Key Metrics for the Sales Data
@@ -181,7 +181,6 @@ The Customer Data dataset offers information on customer profiles and subscripti
 5. Years by Total Sales:  Group the data by Years and sum the Total sales column.To track annual growth and compare year-over-year performance.
 
 ---
-
 #### Customer Data Analysis
 
 1. Subscription Type by Subscription Duration: Group the data by Subscription Type and sum the Subscription Duration column. To evaluate how long customers stay subscribed based on 
@@ -199,25 +198,29 @@ The Customer Data dataset offers information on customer profiles and subscripti
 
 ### Formula Used
 
-Total Sales = Quantity x UnitPrice).  
+ - Total Sales = Quantity x UnitPrice).  
 
-Average Sales per Product = AVERAGEIF(C:C,"Socks",H:H)
+ - Average Sales per Product = AVERAGEIF(C:C,"Socks",H:H)
 
-Total Revenue by Region = SUMIF(D:D,"East",H:H)
+ - Total Revenue by Region = SUMIF(D:D,"East",H:H)
 
-Average subscription = AVERAGE(I:I)
+ - Average subscription = AVERAGE(I:I)
 
-Most Popular Subscription Type = =SUMIF(D:D,"Basic",H:H)
+ - Most Popular Subscription Type = =SUMIF(D:D,"Basic",H:H)
 
-Average Revenue = Total revenue/units sold. 
+ - Average Revenue = Total revenue/units sold. 
    
 ### Tools Used
 ---
  * Microsoft Excel for analyzing data
+   
  * SQL (Structured Query Language) for query,retrieve, insert, update, and delete data stored in database tables
+   
  * PowerBI for Visaualising data
+   
 ---
 #### Microsoft Excel
+
 ---
 Microsoft Excel is a popular spreadsheet software that helps individuals and organizations organize, analyze, and visualize data. It’s part of Microsoft’s Office Suite and is widely used for everything from simple data storage to complex data analysis and automation.
 
@@ -312,7 +315,7 @@ Power BI offers a range of powerful features that make it a top choice for data 
    
    * APIs for Automation: Power BI offers REST APIs that allow for automated data refreshes, report generation, and embedding, supporting various business workflows.
      
- - Data Security:
+- Data Security:
 
    * Row-Level Security (RLS): Power BI supports RLS, allowing users to control access to data at the row level, so only authorized users see specific subsets of data.
      
@@ -469,7 +472,7 @@ Overall, this analysis provides a roadmap for enhancing customer retention, opti
 
 Based on the insights derived from the customer and sales data analysis, here are some actionable recommendations for improvement:
 
-Enhance Customer Retention Efforts: With a cancellation rate close to 45%, it’s crucial to investigate the reasons behind churn. Conduct customer feedback surveys or interviews to understand why customers are leaving. Implement targeted retention campaigns, especially for customers on the verge of canceling their subscriptions, and consider offering loyalty rewards, discounts, or exclusive features to retain them.
+Enhance Customer Retention Efforts: With a cancellation rate close to 45%, it’s crucial to investigate the reasons behind cancellation. Conduct customer feedback surveys or interviews to understand why customers are leaving. Implement targeted retention campaigns, especially for customers on the verge of canceling their subscriptions, and consider offering loyalty rewards, discounts, or exclusive features to retain them.
 
 Personalize Regional Marketing Strategies: Leverage the insights into regional preferences for subscription types to create tailored marketing campaigns. For instance, since the South region favors "Premium" subscriptions, promotions in this region should highlight premium features and value. Expand marketing efforts in regions with lower customer counts (e.g., East) to increase customer acquisition and reach.
 
