@@ -264,6 +264,7 @@ PowerBI is a business analytics tool by Microsoft designed for data visualizatio
 
 #### Key Features of Power BI
 Power BI offers a range of powerful features that make it a top choice for data analysis and visualization. Here are its key features:
+
 ---
  - Data Connectivity and Integration:
 
@@ -351,6 +352,8 @@ Power BI offers a range of powerful features that make it a top choice for data 
 
 #### Pivotal Tables:
 ![Screenshot 2024-11-05 212550](https://github.com/user-attachments/assets/adda3d03-16e3-4316-acee-3bd7fd44fc45)
+
+### Customer Data Analysis
 
 
 
