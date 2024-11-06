@@ -8,8 +8,7 @@ Data analysis is the process of collecting, organizing, transforming, and interp
 ### Steps Invoved in Data Analysis
 
 1. Data Collection: Gathering data from various sources, which might include surveys, databases, logs, or external sources like public datasets or APIs. The quality and relevance of 
-   data 
-   collected here play a major role in the effectiveness of the analysis.
+   data collected here play a major role in the effectiveness of the analysis.
 
 2. Data Cleaning: This is often the most time-consuming step. Cleaning involves removing or correcting errors, handling missing or inconsistent data, and transforming data into a format 
    suitable for analysis. Clean data is essential for reliable insights.
