@@ -326,34 +326,63 @@ Power BI offers a range of powerful features that make it a top choice for data 
 ---
 #### 1. Product by Total Sales
 
-#### Pivotal Tables:
+#### Pivotal Tables
 ![Screenshot 2024-11-05 212521](https://github.com/user-attachments/assets/9b2afc79-218a-4bc7-9cd3-cbffbf89f61a)
 
 ---
 #### 2.Region by Total Sales
 
-#### Pivotal Tables:
+#### Pivotal Tables
 ![Screenshot 2024-11-05 212340](https://github.com/user-attachments/assets/eb6d7415-17df-4563-af4e-60fb5ab9ba39)
 
 ---
 #### 3. Product by Average Sale
 
-#### Pivotal Tables:
+#### Pivotal Tables
 ![Screenshot 2024-11-05 212444](https://github.com/user-attachments/assets/664a5a69-e9f5-4908-8664-6e396249d198)
 
 ---
 #### 4. Months by Total Sales
 
-#### Pivotal Tables:
+#### Pivotal Tables
 ![Screenshot 2024-11-05 212412](https://github.com/user-attachments/assets/61c22642-d629-471c-9981-8822e9303cbd)
 
 ---
-#### 5. Years by Total Sales:
+#### 5. Years by Total Sales
 
-#### Pivotal Tables:
+#### Pivotal Tables
 ![Screenshot 2024-11-05 212550](https://github.com/user-attachments/assets/adda3d03-16e3-4316-acee-3bd7fd44fc45)
 
 ### Customer Data Analysis
+---
+####1. Subscription Type by Subscription Duration:
+
+#### Pivotal Tables
+![Screenshot 2024-11-05 212622](https://github.com/user-attachments/assets/82ad36e8-fd87-4033-a2ed-5c1610743caf)
+
+---
+#### 2.  Region by Subscription Type by Revenue:
+
+#### Pivotal Tables
+![Screenshot 2024-11-05 212804](https://github.com/user-attachments/assets/fea2b1ce-6961-4487-9a59-6f2fa581a77e)
+
+ --- 
+#### 3.  Customer ID by Revenue
+
+#### Pivotal Tables
+![Screenshot 2024-11-05 212648](https://github.com/user-attachments/assets/60fc1103-412a-4458-ac74-ed1ceee78085)
+
+---
+#### 4.  Subscription Type by Canceled by Revenue
+
+#### Pivotal Tables
+![Screenshot 2024-11-05 212713](https://github.com/user-attachments/assets/be3be5d4-07b5-47d7-8cd2-2be593d16386)
+
+---
+#### 5. Region by Subscription Duration by Revenue
+
+#### Pivotal Tables
+![Screenshot 2024-11-05 212744](https://github.com/user-attachments/assets/f8b2304f-94bb-4d7d-8513-0591d1fce154)
 
 
 
