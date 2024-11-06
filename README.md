@@ -406,10 +406,12 @@ Power BI offers a range of powerful features that make it a top choice for data 
 ### Visualisation(PowerBI)
 
 ##### Sale Data Analysis
-![Sale Analysis](https://github.com/user-attachments/assets/c31984f9-78dc-47fe-88bd-827354c378c3)
+![Screenshot 2024-11-06 120931](https://github.com/user-attachments/assets/2d6e1b67-45f4-40a5-913e-d50acef7e926)
+
 
 #### Customer Data Analysis
-![Screenshot 2024-11-05 141232](https://github.com/user-attachments/assets/312f1fcb-3171-4fe4-8a3d-4b1dbcecd45f)
+![Screenshot 2024-11-06 115106](https://github.com/user-attachments/assets/ccc9ffa2-e85e-4b94-ba8e-8b9100c75971)
+
 
 
 
