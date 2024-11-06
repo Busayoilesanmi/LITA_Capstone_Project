@@ -56,7 +56,7 @@ This dataset captures details about individual sales transactions. Each row repr
 
  * UnitPrice: Price per unit of the product.
 
-Total Sales: Total value of the sale (calculated as Quantity x UnitPrice).  
+ * Total Sales: Total value of the sale (calculated as Quantity x UnitPrice).  
 
 ----
 #### Customer Data
