@@ -36,7 +36,6 @@ This project includes two main datasets: the Sales Data and the Customer Data. T
 
 ---
 ### Data Description
----
 
 #### Sale Data
 
