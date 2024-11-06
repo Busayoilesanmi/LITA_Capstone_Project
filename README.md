@@ -388,9 +388,11 @@ Power BI offers a range of powerful features that make it a top choice for data 
 
 ##### Sale Data Analysis
       SQL Query
-![sql for customer data 2](https://github.com/user-attachments/assets/42a3f0a0-12b2-4119-8421-80811188f2d7)
 
 ![sql for Sale data1](https://github.com/user-attachments/assets/b2e63757-23d6-4b54-a5fd-eaa838e0c58c)
+
+![sql for customer data 2](https://github.com/user-attachments/assets/42a3f0a0-12b2-4119-8421-80811188f2d7)
+
 
 
 
