@@ -1,7 +1,24 @@
 # LITA_Capstone_Project
 
-[Project Title: Data Analysis]!
-[Steps Invoved in Data Analysis]!
+[Project Title: Data Analysis]
+[Steps Invoved in Data Analysis]
+[Project Overview]
+[Project Datasets]
+[Data Description]
+[Purpose of These Datasets]
+[Objectives for the Datasets]
+[Key Metrics]
+[How to Use the Data]
+[Formula Used]
+[Tools Used]
+[Microsoft Excel]
+
+
+
+
+
+
+
 
 
 
@@ -92,7 +109,7 @@ This dataset captures details about individual sales transactions. Each row repr
 The Sales Data helps us analyze sales performance across regions and products, while the Customer Data reveals customer behavior, loyalty, and subscription trends. Together, these datasets allow for a thorough analysis of customer purchasing patterns and product success, which can drive business strategies and improve customer retention.
 
 ---
-### Project Objectives for the Datasets
+### Objectives for the Datasets
 
 This project uses two key datasets—Sales Data and Customer Data—to explore and analyze different aspects of the business. Each dataset serves specific objectives, helping us gain insights into sales performance, customer behavior, and overall business trends.
 
