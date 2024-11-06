@@ -409,7 +409,49 @@ Power BI offers a range of powerful features that make it a top choice for data 
 ![Screenshot 2024-11-05 141320](https://github.com/user-attachments/assets/b70c0ce5-1d0f-4cc9-9a08-f297da554340)
 
 #### Customer Data Analysis
-![Screenshot 2024-11-06 121331](https://github.com/user-attachments/assets/70c3baba-aa9d-4bb1-b7c9-ca166e90bf02)
+![Screenshot 2024-11-06 121552](https://github.com/user-attachments/assets/ca367703-4b65-4fbd-b48f-73e439ccc20f)
+
+---
+### Inference:
+
+#### Customer Data Analysis Dashboard
+
+ - Customer Cancellations: About 44.91% of customers have canceled their subscriptions, while 55.09% have remained. This suggests a significant churn rate, which could indicate a need 
+   to investigate the reasons behind cancellations.
+
+ - Subscription Type by Region and Revenue:Different regions seem to prefer different subscription types, with “Basic” being popular in most regions but “Premium” notably present in the 
+   South. Revenue distribution by subscription type and region can help tailor marketing and customer engagement strategies based on regional preferences.
+
+ - Customer Distribution by Region: The East region has the highest customer count, followed by South, North, and West. This distribution could inform regional strategies for customer 
+   acquisition or retention.
+
+- Subscription Type by Duration: Duration for both “Basic” and “Standard” subscriptions is close, with “Premium” slightly higher. This could indicate that customers are choosing the 
+  subscription based on immediate needs rather than long-term plans.
+
+ - Customer Information by Region: A detailed breakdown of customer names, IDs, and regions provides insights into individual customer demographics, potentially helping in targeted 
+   marketing and retention strategies.
+
+ - Subscription Start and End Slicer: This slicer allows for analysis based on specific subscription start and end dates, useful for observing trends in cancellations or sign-ups over 
+   time.
+
+#### Sales Analysis Dashboard
+
+ - Total Sales by Product: Shoes are the top-selling product, followed by Shirts,Hat and Gloves. Jacket and Socks have comparatively low sales. This data can help determine which 
+   products to focus on for future promotions and inventory management.
+
+ - Total Sales by Region: The South region shows the highest sales, with East, North, and West regions trailing. This suggests that the South region is a key market, which could warrant 
+   increased focus or marketing efforts.
+
+ - Average Sales by Product: The data shows average sales across products, where Shoes have the highest average sale. This insight can be used to set sales targets or adjust inventory 
+   based on product performance.
+
+ - Overall Total Sales: The total sales across all products and regions amount to 2.1011m, which provides an overall performance metric for the business and can serve as a benchmark for 
+   future sales goals.
+
+ - Yearly Sales by Product: Sales for "Shirt" increased significantly from 2023 to 2024, indicating positive growth for this product. This trend could suggest rising customer interest 
+   in shirts, potentially due to seasonal demand or effective marketing strategies.
+
+ - Order Slicer: The slicer for OrderDate, CustomerID, and OrderID enables analysis of specific orders, making it easier to track sales over time or identify high-value customers.
 
 
 
