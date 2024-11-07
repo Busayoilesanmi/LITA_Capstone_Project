@@ -42,6 +42,8 @@
 
 [Limitations](#limitations)
 
+[Acknowledgments](#acknowledgments)
+
 ### Introduction
 Data analysis is the process of collecting, organizing, transforming, and interpreting data to discover useful information, draw conclusions, and support decision-making. At its core, data analysis is about making sense of raw data to uncover patterns, trends, relationships, or insights that can inform strategies, solve problems, or answer specific questions.
 
@@ -556,6 +558,23 @@ Based on the insights derived from the customer and sales data analysis, here ar
    loyalty. This limits the ability to make recommendations focused on improving the customer experience.
 
 These limitations highlight areas where additional data or context would enhance the analysis, making it more accurate and actionable for business decision-making.
+
+---
+### Acknowledgments
+
+I am deeply grateful to The Incubator Hub for their exceptional training and support in my journey to becoming a data analyst. Their comprehensive program equipped me with a solid foundation in data analysis, covering everything from data processing to generating insights.
+
+A special thank you to Pastor (Mrs.) Folu Adeboye (Mummy G.O) for founding the Ladies in Tech Africa initiative, which has empowered me and many others to develop vital digital skills.
+
+Thank you, Mummy G.O and The Incubator Hub, for your unwavering commitment to advancing women in tech across Africa.
+
+
+
+
+
+
+
+
 
 
 
