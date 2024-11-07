@@ -535,6 +535,7 @@ Based on the insights derived from the customer and sales data analysis, here ar
    product-specific sales growth to assess the impact of implemented strategies. By implementing these recommendations, the company can strengthen its customer retention, optimize 
    product and regional strategies, and ultimately drive sustainable growth and profitability.
 
+---
 ### Limitations
  - Incomplete Customer Information: The dataset may lack detailed customer demographics, such as age, gender, or income, which could provide deeper insights into customer segments and 
    buying behavior. This limits the ability to create highly targeted strategies based on detailed customer profiles.
