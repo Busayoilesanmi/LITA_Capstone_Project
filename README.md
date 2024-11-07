@@ -3,10 +3,15 @@
 ## Project Title: Data Analysis
 
 [Introduction](#introduction)
-[Steps Invoved in Data Analysis]
-[Project Overview]
-[Project Datasets]
-[Data Description]
+
+[Steps Invoved in Data Analysis](#steps-Invoved-in-data-Analysis)
+
+[Project Overview](#project-overview)
+
+[Project Datasets](#project-datasets)
+
+[Data Description](#data-description)
+
 [Purpose of These Datasets]
 [Objectives for the Datasets]
 [Key Metrics]
