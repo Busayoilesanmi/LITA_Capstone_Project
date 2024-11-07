@@ -1,6 +1,8 @@
 # LITA_Capstone_Project
 
-[Project Title: Data Analysis](#Project Title-Data Analysis)
+## Project Title: Data Analysis
+
+[Introduction](#introduction)
 [Steps Invoved in Data Analysis]
 [Project Overview]
 [Project Datasets]
@@ -13,17 +15,7 @@
 [Tools Used]
 [Microsoft Excel]
 
-
-
-
-
-
-
-
-
-
-## Project Title: Data Analysis
-
+### Introduction
 Data analysis is the process of collecting, organizing, transforming, and interpreting data to discover useful information, draw conclusions, and support decision-making. At its core, data analysis is about making sense of raw data to uncover patterns, trends, relationships, or insights that can inform strategies, solve problems, or answer specific questions.
 
 - - -
@@ -102,6 +94,28 @@ This dataset captures details about individual sales transactions. Each row repr
  * Revenue: Total revenue generated from the customer.
 
  * Subscription Duration: Length of the subscription in days.
+
+---
+### Data Preprocessing
+
+ - Data Cleaning: Removed any duplicate records to prevent skewing the results, especially for customer and sales information.
+
+ - Data Transformation: Aggregated data where necessary, such as calculating total sales per product, total revenue per region, and average sales per product. This made it easier to 
+   analyze trends and draw meaningful insights.
+
+ - Created new calculated fields for analysis, such as total subscription duration and revenue by subscription type.
+
+ - Date Formatting and Time Analysis: Standardized date formats to ensure consistency, enabling time-based analyses like sales by month and year.
+
+ - Extracted month and year from the subscription and order dates to analyze trends over time, such as monthly revenue or annual growth.
+
+ - Categorization and Grouping: Grouped data by categories like region, product, and subscription type to allow for more specific analysis. For example, by grouping sales by region, we 
+   could identify which regions had the highest sales or cancellation.
+
+ - Setting Up Slicers for Dashboard:For the interactive dashboard, set up slicers that allow users to filter data by variables like order date, subscription start and end dates, and 
+   customer IDs. This provides flexibility in exploring different aspects of the data.
+
+This processing ensured the dataset was ready for analysis, allowing us to accurately explore customer behavior, sales trends, and regional performance. It also helped in building an effective and interactive dashboard for visual insights.
 
 ---
 ### Purpose of These Datasets
