@@ -1,6 +1,6 @@
 # LITA_Capstone_Project
 
-[Project Title: Data Analysis]
+[Project Title: Data Analysis](#Project Title-Data Analysis)
 [Steps Invoved in Data Analysis]
 [Project Overview]
 [Project Datasets]
