@@ -24,9 +24,11 @@
 
 [Formula Used](#formula-used)
 
+[SQL (Structured Query Language)](#sql-(structured-query-language))
+
 [Tools Used](#tools-used)
 
-[Microsoft Excel]
+[Microsoft Excel](#microsoft-excel)
 
 ### Introduction
 Data analysis is the process of collecting, organizing, transforming, and interpreting data to discover useful information, draw conclusions, and support decision-making. At its core, data analysis is about making sense of raw data to uncover patterns, trends, relationships, or insights that can inform strategies, solve problems, or answer specific questions.
