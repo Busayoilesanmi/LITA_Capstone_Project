@@ -354,7 +354,7 @@ Power BI offers a range of powerful features that make it a top choice for data 
 ### Visual Analysis and Inference 
 
 ### Sale Data Analysis
----
+
 #### 1. Product by Total Sales
 
 #### Pivotal Tables
@@ -384,8 +384,9 @@ Power BI offers a range of powerful features that make it a top choice for data 
 #### Pivotal Tables
 ![Screenshot 2024-11-05 212550](https://github.com/user-attachments/assets/adda3d03-16e3-4316-acee-3bd7fd44fc45)
 
-### Customer Data Analysis
 ---
+### Customer Data Analysis
+
 #### 1. Subscription Type by Subscription Duration:
 
 #### Pivotal Tables
