@@ -440,6 +440,7 @@ Power BI offers a range of powerful features that make it a top choice for data 
 ##### Sale Data Analysis
 ![Screenshot 2024-11-05 141320](https://github.com/user-attachments/assets/b70c0ce5-1d0f-4cc9-9a08-f297da554340)
 
+
 #### Customer Data Analysis
 ![Screenshot 2024-11-06 121552](https://github.com/user-attachments/assets/ca367703-4b65-4fbd-b48f-73e439ccc20f)
 
