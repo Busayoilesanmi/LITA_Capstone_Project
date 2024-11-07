@@ -537,6 +537,9 @@ Based on the insights derived from the customer and sales data analysis, here ar
 
 ---
 ### Limitations
+
+These limitations highlight areas where additional data or context would enhance the analysis, making it more accurate and actionable for business decision-making.
+
  - Incomplete Customer Information: The dataset may lack detailed customer demographics, such as age, gender, or income, which could provide deeper insights into customer segments and 
    buying behavior. This limits the ability to create highly targeted strategies based on detailed customer profiles.
    
@@ -557,8 +560,6 @@ Based on the insights derived from the customer and sales data analysis, here ar
 
  - No Data on Customer Feedback or Satisfaction: The dataset lacks any feedback or satisfaction scores from customers, which are critical for understanding customer sentiment and 
    loyalty. This limits the ability to make recommendations focused on improving the customer experience.
-
-These limitations highlight areas where additional data or context would enhance the analysis, making it more accurate and actionable for business decision-making.
 
 ---
 ### Acknowledgments
